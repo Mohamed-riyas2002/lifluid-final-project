@@ -1,0 +1,23 @@
+// Place all the styles related to the donors controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.donor-register-cls {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+.donor-register-div {
+    background-color: black;
+    width: 70%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.form-div1 {
+    background-color: white;
+}
+.form-div2 {
+    background-color: black;
+    color: white;
+}
